@@ -1,0 +1,5 @@
+{
+  "name": "Coptic Hazzat Editor",
+  "description": "A specialized editor for Coptic Orthodox Hazzat musical notation, allowing users to type and position musical symbols over Coptic text.",
+  "requestFramePermissions": []
+}
